@@ -16,7 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    NSLog(@"this is version2");
+    NSLog(@"this is version22222222");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
